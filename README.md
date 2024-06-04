@@ -30,8 +30,6 @@ yarn android - to run the app using a simulator.
 React Native: The core framework used for building the app.
 React Navigation: For navigation between different screens.
 Redux: For state management.
-Axios: For handling API requests.
-Firebase: For user authentication and data storage.
 Expo: For easier development and testing.
 
 **Feedback**
